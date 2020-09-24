@@ -7,7 +7,7 @@ Portfolio Builder is a web application that is built using Reactjs and Firebase 
 Portfolio Builder has several interactive pages: 
 * **Sign In / Sign Up:** The application opens with a sign in page. If you aren't signed in, then you can go the sign up page where you can register and your data is stored in firebase.
 
-![Sign Up Page](images\SignUp.jpg)
+<img src="images\SignUp.jpg">
 
 * **Choose a Template:** Once you sign in, you then come to this page which offers a variety of original templates that you can choose for your e-portfolio.
 
